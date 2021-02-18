@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Cards Example
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](./screenshot.png)
 
 ## Available Scripts
 
@@ -73,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - [Gradient.io](https://cssgradient.io/)
 - [Flat Color Palette - Drible.com/Ebtihaj](https://dribbble.com/shots/4133181-Flat-Color-Palette)
+- [Oxygen Font](https://fonts.google.com/specimen/Oxygen?preview.text_type=custom&sidebar.open=true&selection.family=Oxygen:wght@300)
